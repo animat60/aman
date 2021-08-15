@@ -1,3 +1,5 @@
+git revert commit 1.
 thi is initial kohli.
 this is koli
 hi kohli
+
